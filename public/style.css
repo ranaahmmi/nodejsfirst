@@ -2,7 +2,9 @@
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 1.2rem;
-  background-color: #f5f5f5;
+  background-image: url("/assets/login-background-img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .center-div {
   padding-top: 10%;
